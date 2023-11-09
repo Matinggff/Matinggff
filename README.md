@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Django, FastAPI**
 
-- 🌱 I’m currently learning **FastAPI, JavaScript**
+- 🌱 I’m currently learning **MySQL**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, FastAPI**
 
 - 📫 How to reach me **symatin3@gmail.com**
 
