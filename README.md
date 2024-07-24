@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matinggff" alt="matinggff" /></a> </p>
 
-- 🔭 I’m currently working on **Django, FastAPI**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQ, Java ScriptL**
 
-- 💬 Ask me about **Django, Python, FastAPI**
+- 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **symatin3@gmail.com**
 
