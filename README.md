@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **MySQ, Java ScriptL**
+- 🌱 I’m currently learning **Django REST framework**
 
 - 💬 Ask me about **Django, Python**
 
