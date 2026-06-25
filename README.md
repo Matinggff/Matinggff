@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django REST framework**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **symatin3@gmail.com**
 
